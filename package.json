@@ -1,0 +1,20 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Plik testowy package.json do nauki npm'a",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nauka",
+    "npm",
+    "node"
+  ],
+  "author": "Mateusz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "stat-mode": "^1.0.0"
+  }
+}
